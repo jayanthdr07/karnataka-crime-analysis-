@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Karnataka Crime Analysis 2023</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="card">
+            <h1>📊 Karnataka Crime Analysis 2023</h1>
+            <p class="subtitle">Upload your CSV file to generate insights</p>
+
+            <div class="upload-box">
+                <input type="file" id="fileInput" accept=".csv">
+                <label for="fileInput" class="upload-btn">
+                    Choose CSV File
+                </label>
+                <p id="fileName">No file selected</p>
+            </div>
+
+            <button onclick="processFile()" class="analyze-btn">
+                Analyze Data
+            </button>
+
+            <div id="result" class="result-box">
+                Results will appear here...
+            </div>
+        </div>
+    </div>
+
+<script src="script.js"></script>
+</body>
+</html>
