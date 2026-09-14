@@ -7,7 +7,7 @@ This project is a Java Spring Boot based Crime Data Analysis system
 that processes CSV datasets and generates district-wise crime statistics 
 and visual reports.
 ---
-## 🚀 Features
+##  Features
 - Upload CSV crime datasets
 - Process district-wise crime records
 - Analyze total crime, murder, road accidents
