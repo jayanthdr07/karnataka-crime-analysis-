@@ -22,7 +22,7 @@ and visual reports.
 - HTML / CSS / JavaScript
 - REST APIs
 ---
-## 📊 Modules
+##  Modules
 - Crime Data Processing
 - Road Accident Analysis
 - Sexual Harassment Crime Analysis
