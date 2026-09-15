@@ -15,7 +15,7 @@ and visual reports.
 - Clean and responsive frontend UI
 - Maven project structure
 ---
-## 🛠 Tech Stack
+##  Tech Stack
 - Java 17
 - Spring Boot
 - Maven
